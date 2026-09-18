@@ -1,0 +1,6 @@
+{
+  "name": "Camera",
+  "description": "A fully functional Android camera app powered by Camera2 API with real-time controls, multi-lens switching, tap-to-focus, and photo capture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
